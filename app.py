@@ -27,6 +27,6 @@ if st.button('Predict Sentiment') and review.strip():
     else:
        st.error("Negative 😡")
 
-    sentiment_map = {0:'Negative',1:'Positive',2:'Neutral'}
+    sentiment_map = {0:'Negative',1:'Positive'}
 
 
