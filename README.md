@@ -1,4 +1,4 @@
-Movies Sentiment Analysis
+# Movies Sentiment Analysis
 Overview
 
 A simple movie review sentiment analysis app that predicts whether a review is Positive or Negative using an LSTM model.
